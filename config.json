@@ -2,5 +2,5 @@
 	"ip":"hag.aternos.me",
 	"port": "25565",
 	"name": "Hagbot",
-	"auto-night-skip":"false"
+	"auto-night-skip":"true"
 }
