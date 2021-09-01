@@ -1,6 +1,6 @@
 {
-	"ip":"hagyt.aternos.me",
-	"port": "34543",
-	"name": "Hagbot",
-	"auto-night-skip":"true"
+	"ip":"playhagyt.aternos.me",
+	"port": "25565",
+	"name": "Loggy_gamer",
+	"auto-night-skip":"false"
 }
