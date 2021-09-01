@@ -1,5 +1,5 @@
 {
-	"ip":"milchium.aternos.host",
+	"ip":"milchium.aternos.host:34543",
 	"port": "34543",
 	"name": "Hagbot",
 	"auto-night-skip":"true"
