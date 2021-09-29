@@ -3,5 +3,6 @@
 	"port": "25565",
 	"name": "Loggy_gamer",
 	"online-mode": "true",
+	"encryption": true,
 	"auto-night-skip":"false"
 }
