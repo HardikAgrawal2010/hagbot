@@ -14,6 +14,7 @@ var maxrandom = 5; // 0-5 seconds added to movement interval (randomly)
 var host = data["ip"];
 var username = data["name"]
 var online-mode = data["online-mode"]
+var encryption = data["encryption"]
 var nightskip = data["auto-night-skip"]
 var bot = mineflayer.createBot({
   host: host,
