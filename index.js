@@ -15,6 +15,7 @@ var host = data["ip"];
 var username = data["name"]
 var online-mode = data["online-mode"]
 var encryption = data["encryption"]
+var uuid = data["uuid"]
 var nightskip = data["auto-night-skip"]
 var bot = mineflayer.createBot({
   host: host,
