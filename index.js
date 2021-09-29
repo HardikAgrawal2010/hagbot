@@ -13,7 +13,6 @@ var moveinterval = 2; // 2 second movement interval
 var maxrandom = 5; // 0-5 seconds added to movement interval (randomly)
 var host = data["ip"];
 var username = data["name"]
-var 'online-mode' = data["online-mode"]
 var encryption = data["encryption"]
 var uuid = data["uuid"]
 var nightskip = data["auto-night-skip"]
