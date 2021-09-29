@@ -3,6 +3,7 @@
 	"port": "25565",
 	"name": "Loggy_gamer",
 	"online-mode": "true",
-	"encryption": true,
+	"encryption": "true",
+	"uuid": "da8f55ff-1627-45c4-ad8d-6a97414adddc",
 	"auto-night-skip":"false"
 }
