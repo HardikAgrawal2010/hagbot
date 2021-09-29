@@ -29,7 +29,7 @@ bot.loadPlugin(cmd)
 
 bot.on('login',function(){
 	console.log("Logged In")
-	bot.chat("Hello Scorch Hardik Told Me To Join This And Subscribe to loggy hindustani gamer Please");
+	bot.chat("Hello");
 });
 
 bot.on('time', function(time) {
